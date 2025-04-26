@@ -14,3 +14,5 @@ And all 3 hours of ideally small delay are provided to you, when you notice that
 
 # Explanation
 No anti-cheat or anti-virus software should be running for the program to work properly.
+
+![Screenshot_55.png](https://github.com/syl1x0/SurpassedDelay/blob/main/Screenshot_55.png)
